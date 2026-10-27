@@ -1,0 +1,6 @@
+op,planta,cantidad,estado
+DEMO-001,1323,1000,Terminado
+DEMO-002,1170,800,En proceso
+DEMO-003,Chincha,1500,Pendiente
+DEMO-004,1323,700,En proceso
+DEMO-005,Chincha,1200,Terminado
